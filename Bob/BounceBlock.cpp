@@ -1,0 +1,25 @@
+// BounceBlock.cpp: implementation of the BounceBlock class.
+//
+//////////////////////////////////////////////////////////////////////
+
+
+#include "BounceBlock.h"
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+BounceBlock::BounceBlock()
+{
+
+}
+
+BounceBlock::~BounceBlock()
+{
+
+}
+
+bool BounceBlock::CollideCheck(IPlayer* arg,int& x,int& y,bool& m,bool& ladder,bool& my,HPTRect& temprect,int& ltype)
+{
+	return false;
+}

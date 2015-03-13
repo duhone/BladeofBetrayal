@@ -1,0 +1,2 @@
+[crconfig]
+platform     Platform - should be a string

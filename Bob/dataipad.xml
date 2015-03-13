@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <compiler-settings>
+    <output-path path="..\data-ipad\data.edf" />
+    <asset-path path=".\AssetListNew.h" />
+    <asset-section section="sounds" />
+    <asset-section section="music" />
+  </compiler-settings>
+  <buffers>
+	<buffer id="BF8DEDE1-33BC-4c3e-8930-C5117C887EB6" name="swing" filename="SoundsHD\swing.wav" compression="ogg" quality="5"/>
+	<buffer id="A26179EE-81E0-4ef1-B7A5-E384D934397A" name="revolver38" filename="SoundsHD\revolver38.wav" compression="ogg" quality="5"/>
+	<buffer id="A2BEF2DF-2F88-45b0-9460-7D5FFDE8B16F" name="m16burst3" filename="SoundsHD\m16burst3.wav" compression="ogg" quality="6"/>
+	<buffer id="87D42DD6-B4F0-4E43-82F0-D2C39809061D" name="shock" filename="SoundsHD\shock.wav" compression="ogg" quality="5"/>
+	<buffer id="3192BBBB-457F-4EB6-BD07-375089C36895" name="flame" filename="SoundsHD\flame.wav" compression="ogg" quality="5"/>
+	<buffer id="7CBFCE43-A6CA-4BE5-A2D3-7918944E5120" name="wave" filename="SoundsHD\wave.wav" compression="ogg" quality="5"/>
+	<buffer id="AB8B1C42-66A2-40EB-9D19-A3B539995519" name="quake" filename="SoundsHD\quake.wav" compression="ogg" quality="5"/>
+	<buffer id="651CE9CE-4F1E-43FE-999F-4E08D701D920" name="explosion" filename="SoundsHD\explosion.wav" compression="ogg" quality="5"/>
+	<buffer id="088529DE-5C1F-47FC-961A-522629B7B02D" name="breakcrate" filename="SoundsHD\break.wav" compression="ogg" quality="5"/>
+	<buffer id="B26BA39A-7E10-49DD-BC75-8C9905CEF7CB" name="openchest" filename="SoundsHD\openchest.wav" compression="ogg" quality="5"/>
+	<buffer id="90EE06AE-77A9-4DFF-9759-FCF7C4FACBCC" name="breakglass" filename="SoundsHD\glassbreak.wav" compression="ogg" quality="5"/>
+	<buffer id="2226E84C-E33C-4EB9-B7A7-B9E4854EE173" name="knifethrow" filename="SoundsHD\knifethrow.wav" compression="ogg" quality="5"/>
+	<buffer id="8F806F42-742D-4078-8CDB-6CEC90B06BCC" name="mrtphase" filename="SoundsHD\mrtphase.wav" compression="ogg" quality="5"/>
+	<buffer id="6DAD7233-6A92-4CE7-B8FF-FCA69EA6DEE1" name="laser" filename="SoundsHD\laser.wav" compression="ogg" quality="5"/>
+	<buffer id="1467194E-4EBE-4fc9-9B2F-FC78BFBCDDAC" name="bang" filename="SoundsHD\bang.wav" compression="ogg" quality="5"/>
+	<buffer id="88A1DAF2-9D9F-4154-939B-A8370AECA805" name="blip" filename="SoundsHD\blip.wav" compression="ogg" quality="5"/>
+	<buffer id="2AA35D4B-3462-4fb8-BA91-CBF2FBA20BC6" name="click" filename="SoundsHD\click.wav" compression="ogg" quality="5"/>
+	<buffer id="19FEA5AD-BD0F-4b79-8FFF-BF4E41664E75" name="damage" filename="SoundsHD\damage.wav" compression="ogg" quality="5"/>
+	<buffer id="EC5E7579-20D6-482f-A1F6-31A84946E2DB" name="explode00" filename="SoundsHD\explode00.wav" compression="ogg" quality="5"/>
+	<buffer id="FFAA35FA-1262-40d5-BB0D-C5659E7684D9" name="explode02" filename="SoundsHD\explode02.wav" compression="ogg" quality="5"/>
+	<buffer id="5ACAD68C-784C-4a66-960D-9E3FAC832A5C" name="growl00" filename="SoundsHD\growl00.wav" compression="ogg" quality="5"/>
+	<buffer id="7EF86FB8-7240-4546-9C14-437730B8FF59" name="growl01" filename="SoundsHD\growl01.wav" compression="ogg" quality="5"/>
+	<buffer id="B95D5EC1-9083-42ed-AA45-1E28D9363B7F" name="growl02" filename="SoundsHD\growl02.wav" compression="ogg" quality="5"/>
+	<buffer id="6690F7C3-7F60-4825-A558-3761C6B8D369" name="jaildoorclose" filename="SoundsHD\jaildoorclose.wav" compression="ogg" quality="5"/>
+	<buffer id="2785E3D5-C595-41b6-B0E4-174F8E647244" name="morsecode" filename="SoundsHD\morsecode.wav" compression="ogg" quality="5"/>
+	<buffer id="D20A7CF8-2E73-4f62-B71E-BBC975ED1012" name="watersplash" filename="SoundsHD\watersplash.wav" compression="ogg" quality="5"/>
+	<buffer id="7FF01D99-6088-4a89-B5ED-B321B3DF3CD5" name="jump" filename="SoundsHD\jump.wav" compression="ogg" quality="5"/>
+	<buffer id="27149963-FB48-4259-9B71-16568C31FBB7" name="firedeath" filename="SoundsHD\firedeath.wav" compression="ogg" quality="5"/>
+	<buffer id="81CA12EF-29DE-46d0-A17F-B14C363D3E51" name="monster" filename="SoundsHD\monster.wav" compression="ogg" quality="5"/>
+	<buffer id="48AB05A2-6F45-49a6-A0E2-174045AECD27" name="thunder" filename="SoundsHD\thunder.wav" compression="ogg" quality="5"/>
+	</buffers>  
+  <sounds>
+	<sound id="87DBDBEE-8D4D-4057-8062-36EFD8262F4F" name="swing" buffer="BF8DEDE1-33BC-4c3e-8930-C5117C887EB6" gain="1.0" positional="false"/>
+	<sound id="72149305-46C0-45e9-AAA6-5434E007ABF6" name="revolver38" buffer="A26179EE-81E0-4ef1-B7A5-E384D934397A" gain="1.0" positional="false"/>
+	<sound id="2874AC6F-5CF4-455f-AA26-2DFDFFD02086" name="m16burst3" buffer="A2BEF2DF-2F88-45b0-9460-7D5FFDE8B16F" gain="1.0" positional="false"/>
+	<sound id="E829477A-C28F-49C4-AFF7-2726E47984CE" name="shock" buffer="87D42DD6-B4F0-4E43-82F0-D2C39809061D" gain="1.0" positional="false"/>
+	<sound id="F6342638-1E0E-4D84-86EE-D36998C2457E" name="flame" buffer="3192BBBB-457F-4EB6-BD07-375089C36895" gain="1.0" positional="false"/>
+	<sound id="9CB198B9-9BF3-4219-B753-D9A0CA564FB8" name="wave" buffer="7CBFCE43-A6CA-4BE5-A2D3-7918944E5120" gain="1.0" positional="false"/>
+	<sound id="0F8E1701-D37C-402D-BE2D-2B2F29E489E1" name="quake" buffer="AB8B1C42-66A2-40EB-9D19-A3B539995519" gain="1.0" positional="false"/>
+	<sound id="BB79EB85-069F-4948-9E06-D7508723C309" name="explosion" buffer="651CE9CE-4F1E-43FE-999F-4E08D701D920" gain="1.0" positional="false"/>
+	<sound id="9E7863AB-4F89-48D4-A15A-63EA4028C01F" name="breakcrate" buffer="088529DE-5C1F-47FC-961A-522629B7B02D" gain="1.0" positional="false"/>
+	<sound id="A688AEAE-47E8-43BC-AA1C-512A9CE1E3BC" name="openchest" buffer="B26BA39A-7E10-49DD-BC75-8C9905CEF7CB" gain="1.0" positional="false"/>
+	<sound id="94527C68-3B88-46D3-90C4-6B6DE0C5F9CD" name="breakglass" buffer="90EE06AE-77A9-4DFF-9759-FCF7C4FACBCC" gain="1.0" positional="false"/>
+	<sound id="67530CF1-0F32-4E1E-ABC9-5750A322C944" name="knifethrow" buffer="2226E84C-E33C-4EB9-B7A7-B9E4854EE173" gain="1.0" positional="false"/>
+	<sound id="04DFE064-2D3F-4DA1-BAB6-5CBF6162A8B4" name="mrtphase" buffer="8F806F42-742D-4078-8CDB-6CEC90B06BCC" gain="1.0" positional="false"/>
+	<sound id="BF0C56E2-FBED-4FAB-AE1F-834873A84D39" name="laser" buffer="6DAD7233-6A92-4CE7-B8FF-FCA69EA6DEE1" gain="1.0" positional="false"/>
+	<sound id="32B236C0-52DC-483c-8B35-8B5604C0852D" name="bang" buffer="1467194E-4EBE-4fc9-9B2F-FC78BFBCDDAC" gain="1.0" positional="false"/>
+	<sound id="E0C0250B-A005-4b09-9BA4-3AF11A307E80" name="blip" buffer="88A1DAF2-9D9F-4154-939B-A8370AECA805" gain="1.0" positional="false"/>
+	<sound id="E857CABD-35AD-4e07-90E2-2BA714291074" name="click" buffer="2AA35D4B-3462-4fb8-BA91-CBF2FBA20BC6" gain="1.0" positional="false"/>
+	<sound id="ACB9646D-C5EC-4550-95FC-B84B171D0A91" name="damage" buffer="19FEA5AD-BD0F-4b79-8FFF-BF4E41664E75" gain="1.0" positional="false"/>
+	<sound id="CFCBA5A0-6914-47fb-80E9-EF6FD898A0F8" name="explode00" buffer="EC5E7579-20D6-482f-A1F6-31A84946E2DB" gain="1.0" positional="false"/>
+	<sound id="0DA1AE94-A4F9-48c4-95F9-AB619AF9429B" name="explode02" buffer="FFAA35FA-1262-40d5-BB0D-C5659E7684D9" gain="1.0" positional="false"/>
+	<sound id="E5DA1DD7-C3EF-4ed1-B0DB-75F8EB1076C6" name="growl00" buffer="5ACAD68C-784C-4a66-960D-9E3FAC832A5C" gain="1.0" positional="false"/>
+	<sound id="792F2BC3-3BF1-4d00-BD64-9852137ED738" name="growl01" buffer="7EF86FB8-7240-4546-9C14-437730B8FF59" gain="1.0" positional="false"/>
+	<sound id="71182933-CC0A-4652-AFB1-D5D274F52773" name="growl02" buffer="B95D5EC1-9083-42ed-AA45-1E28D9363B7F" gain="1.0" positional="false"/>
+	<sound id="D41E76E6-BD7D-4f0c-A09F-B22A7FB72728" name="jaildoorclose" buffer="6690F7C3-7F60-4825-A558-3761C6B8D369" gain="1.0" positional="false"/>
+	<sound id="7834A9F8-F08D-45b1-9B1B-F3EEF38FF6F7" name="morsecode" buffer="2785E3D5-C595-41b6-B0E4-174F8E647244" gain="1.0" positional="false"/>
+	<sound id="E88CEDDD-D18F-4f1e-9D3E-FBFAE77A5445" name="watersplash" buffer="D20A7CF8-2E73-4f62-B71E-BBC975ED1012" gain="1.0" positional="false"/>
+	<sound id="7DE7D45A-F9D0-4f45-BF26-E5879B256B88" name="jump" buffer="7FF01D99-6088-4a89-B5ED-B321B3DF3CD5" gain="1.0" positional="false"/>
+	<sound id="2FCA983E-1F53-44c6-8F11-BE15C8264CA5" name="firedeath" buffer="27149963-FB48-4259-9B71-16568C31FBB7" gain="1.0" positional="false"/>
+	<sound id="6FC7021E-0B0E-4135-A014-09504D6C8056" name="monster" buffer="81CA12EF-29DE-46d0-A17F-B14C363D3E51" gain="1.0" positional="false"/>
+	<sound id="1780E73D-3CA2-4298-A99F-5F5A177FE6FF" name="thunder" buffer="48AB05A2-6F45-49a6-A0E2-174045AECD27" gain="1.0" positional="false"/>
+	</sounds>  
+  <music>
+	<song id="DFAB502A-C725-4c30-BE11-D64A1F54A6F9" name="Menu" filename=".\MusicHD\TitleThemeRemix.wav" quality="3"/>
+	<song id="4CF007CC-9F38-4494-BC5A-55B68C8DA8A2" name="Level1A" filename=".\MusicHD\1ARemix.wav" quality="3"/>	
+	<song id="4A8C6495-C94A-47e1-9281-927C95E1017A" name="Level1B" filename=".\MusicHD\1BRemix.wav" quality="3"/>	
+	<song id="87E48BA1-2316-44e6-A52C-9B0C037B86FB" name="Level2A" filename=".\MusicHD\2ARemix.wav" quality="3"/>	
+	<song id="CCDBAFB2-7463-4099-A21A-5EBDD60A48D2" name="Level2B" filename=".\MusicHD\2BRemix.wav" quality="3"/>	
+	<song id="F5B6A6FA-061A-4639-918D-D1BB9A86B2D0" name="Level3A" filename=".\MusicHD\3ARemix.wav" quality="3"/>	
+	<song id="F6F0A98A-31DE-42c9-B0E6-B60CA1BBDC82" name="Level3B" filename=".\MusicHD\3BRemix.wav" quality="3"/>	
+	<song id="B792656A-A192-4a63-800D-3CE8EA570BED" name="Cutscene" filename=".\Music\Cutscene.wav" quality="3"/>	
+	<song id="77793343-70CF-4cea-A3A7-D01CEAED5C3F" name="BossBattle" filename=".\MusicHD\BossBattleRemix.wav" quality="3"/>	
+	<song id="AE6550A5-EA66-45E3-837D-8888C0F83431" name="Finale" filename=".\MusicHD\FinaleRemix.wav" quality="3"/>	
+	<song id="B9D208C5-AB59-480D-8723-E1C0B2FB45FB" name="MenuRetro" filename=".\Music\TitleTheme.wav" quality="7"/>
+	<song id="12A416DA-C74D-4F9D-9740-44D239D4FBF9" name="Level1ARetro" filename=".\Music\1A.wav" quality="7"/>	
+	<song id="B02DEA16-2814-4FCC-897A-18CFDB96A3FA" name="Level1BRetro" filename=".\Music\1B.wav" quality="7"/>	
+	<song id="BF9CC927-E8B6-4D36-BE68-FF1A068DD446" name="Level2ARetro" filename=".\Music\2A.wav" quality="7"/>	
+	<song id="B2A1DC77-E5AD-4AC5-925E-5B472A6372A6" name="Level2BRetro" filename=".\Music\2B.wav" quality="7"/>	
+	<song id="4690CA21-AE4A-4C86-83F5-C9F550C9BB30" name="Level3ARetro" filename=".\Music\3A.wav" quality="7"/>	
+	<song id="B93A79AE-AE45-4F83-80BE-BAD4B87C5C1D" name="Level3BRetro" filename=".\Music\3B.wav" quality="7"/>	
+	<song id="C14092EC-2A09-4849-A9D4-84F8AFE2FB7C" name="BossBattleRetro" filename=".\Music\BossBattle.wav" quality="7"/>	
+	<song id="6C1F4A16-95F9-48EA-A56A-58D4CEDB8453" name="FinaleRetro" filename=".\Music\Finale.wav" quality="7"/>
+  	<song id="F142985C-2B23-4CE2-85A2-DCC0F1D1C6BE" name="Bonus1Retro" filename=".\Music\Bonus1.wav" quality="7"/>
+  	<song id="B8F2A369-778D-4916-8B14-CCE5AC711546" name="Bonus2Retro" filename=".\Music\Bonus2.wav" quality="7"/>
+  	<song id="AD56C535-8AEE-4BDA-B284-4F773FA61DDC" name="Bonus3Retro" filename=".\Music\Bonus3.wav" quality="7"/>
+  	<song id="93C7E710-2E99-4BAE-A6D3-EF557286F4C3" name="Bonus1" filename=".\MusicHD\Bonus1Remix.wav" quality="3"/>
+  	<song id="140C97F9-0454-4E8B-98B9-BD6A5C0A39FE" name="Bonus2" filename=".\MusicHD\Bonus2Remix.wav" quality="3"/>
+  	<song id="ECBC2324-3361-40E8-81AB-5FA3773BA3EA" name="Bonus3" filename=".\MusicHD\Bonus3Remix.wav" quality="3"/>
+  </music>  
+</data>

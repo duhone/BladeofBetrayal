@@ -1,0 +1,11 @@
+#file <OutputDir>\\<ProjectName>.dat
+#tileset
+#map
+<MapWidth>
+<MapHeight>\n
+#mapdata
+<MapCode> 
+#end mapdata
+#end map
+#end tileset
+#end file

@@ -1,0 +1,17 @@
+#file <OutputDir>\\<ProjectName>.td
+#tileset
+<TileCount>\n
+#tile
+#tiledata
+<R> <G> <B> 
+#end tiledata
+#end tile
+#map
+<MapWidth>
+<MapHeight>\n
+#mapdata
+<TileNumber> 
+#end mapdata
+#end map
+#end tileset
+#end file

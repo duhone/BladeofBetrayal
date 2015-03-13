@@ -1,0 +1,30 @@
+// Weapon.cpp: implementation of the Weapon class.
+//
+//////////////////////////////////////////////////////////////////////
+
+
+#include "Weapon.h"
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+Weapon::Weapon()
+{
+	nAmtDmg = 1;
+}
+
+Weapon::~Weapon()
+{
+
+}
+
+void Weapon::SetWeaponDamage(int  nDamage)
+{
+	nAmtDmg = nDamage;
+}
+
+int Weapon::GetWeaponDamage()
+{
+	return nAmtDmg;
+}

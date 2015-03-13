@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <compiler-settings>
+    <output-path path="data.edf" />
+    <asset-path path="AudioEngineIDS.h" />
+    <asset-section section="buffers" />
+    <asset-section section="music" />
+    <asset-section section="sounds" />
+  </compiler-settings>
+  <buffers>
+  </buffers>
+  <sounds>
+  </sounds>
+  <music>
+  </music>
+</data>

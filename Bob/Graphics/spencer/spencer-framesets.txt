@@ -1,0 +1,18 @@
+0) Walking 
+1) Standing 
+2) Idle
+3) Jump - Up
+4) Jump - Kick
+5) Crouch - Down
+6) Crouch - Punch
+7) Crouch - Movement
+8) Climb - Side
+9) Crouch - Ladder
+10) Attack Standard
+11) Attack - Shock
+12) Damaged - Hit
+13) Attack - Flame
+14) Attack - Grenade
+15) Attack - Projectile
+16) Attack - Quake
+17) Climb - Rope

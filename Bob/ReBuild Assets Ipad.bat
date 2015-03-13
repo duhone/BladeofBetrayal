@@ -1,0 +1,1 @@
+"..\Tools\Tools Deployed\Windows\CR Compiler.exe" dataipad.xml rebuild
