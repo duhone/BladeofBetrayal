@@ -946,10 +946,6 @@ deployments
 	android-icon-ldpi=Bob/Graphics/AppIcons/rounded/Icon_36.png
 	android-icon-mdpi=Bob/Graphics/AppIcons/rounded/Icon_48.png
 	iphone-prerendered-icon='1'
-	android-aliasname='bob'
-	android-keypass='b0dptfi4'
-	android-keystore=distribution/android/cr.keystore
-	android-storepass='b0dptfi4'
 	
 	[android]
 	assets=phone
@@ -972,37 +968,7 @@ deployments
 	android-icon-ldpi=Bob/Graphics/AppIcons/rounded/Icon_36.png
 	android-icon-mdpi=Bob/Graphics/AppIcons/rounded/Icon_48.png
 	iphone-prerendered-icon='1'
-	android-aliasname='bob'
-	android-keypass='b0dptfi4'
-	android-keystore=distribution/android/cr.keystore
-	android-storepass='b0dptfi4'
-	
-	[bada]
-	assets=bada
-	app-icf=data-bada/app.icf
-	iphone-disable-ipad='1'
-	win32-pref-windowtitle='Blade of Betrayal'
-	provider='conjuredrealms'
-	version-major=2
-	bada-icon=Bob/Graphics/AppIcons/Bada/Icon_BadaRounded.png
-	bada-splash=data-bada/SplashbadaPortrait.jpg
-	bada-appid='85cj6q7f81'
-	bada-appsecret='A67A7AEA16395E5AA86D7887220E4843'
-	bada-manifest=data-bada/20101103_manifest.xml
-	
-	[bada2]
-	assets=bada
-	app-icf=data-bada2/app.icf
-	iphone-disable-ipad='1'
-	win32-pref-windowtitle='Blade of Betrayal'
-	provider='conjuredrealms'
-	version-major=2
-	bada-icon=Bob/Graphics/AppIcons/Bada/Icon_BadaRounded.png
-	bada-splash=data-bada2/SplashbadaPortrait2.jpg
-	bada-appid='85cj6q7f81'
-	bada-appsecret='A67A7AEA16395E5AA86D7887220E4843'
-	bada-manifest=data-bada2/20111129_manifest.xml
-
+		
 	[iad]
 	caption="BoB FREE"
 	long-caption="Blade of Betrayal (IAD supported)"
@@ -1028,9 +994,6 @@ deployments
 	android-icon-mdpi=Bob/Graphics/AppIcons/rounded/Icon_48.png
 	iphone-prerendered-icon='1'
 	android-aliasname='bob'
-	android-keypass='b0dptfi4'
-	android-keystore=distribution/android/cr.keystore
-	android-storepass='b0dptfi4'
 	iphone-info-plist=data-iad/Info.plist
 	
 	[ipad]
@@ -1073,11 +1036,5 @@ deployments
 	bada-signed=1
 	["iad"]
 	["ipad"]
-	playbook-author='Conjured Realms'
-	playbook-authorid='gYAAgITt1FSnw2wMWuponiyOTVU'
 	["phone"]
-	["playbook"]
-	playbook-author='Conjured Realms'
-	playbook-authorid='gYAAgITt1FSnw2wMWuponiyOTVU'
-	playbook-icon='Bob/Graphics/AppIcons/Icon_86.png'
 }
